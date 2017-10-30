@@ -1,7 +1,7 @@
 {
   "name": "react-fission-cli",
-  "version": "0.1.0",
-  "description": "Start a fresh node application.",
+  "version": "0.1.1",
+  "description": "Command Line interface for React Fission",
   "main": "dist/index.js",
   "author": "Matheus Mariano <vmatheus.mariano@gmail.com>",
   "license": "MIT",
